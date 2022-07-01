@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PlayCatalog.Application\PlayCatalog.Application.csproj" />
+    <ProjectReference Include="..\PlayCatalog.Contracts\PlayCatalog.Contracts.csproj" />
     <ProjectReference Include="..\PlayCatalog.Model\PlayCatalog.Model.csproj" />
   </ItemGroup>
 
